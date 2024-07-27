@@ -91,3 +91,18 @@ Predictive maintenance (PdM) can significantly enhance equipment reliability and
 6. Memari, M., et al. "Data Fusion and Ensemble Learning for Advanced Anomaly Detection Using Multi-Spectral RGB and Thermal Imaging of Small Wind Turbine Blades." Energies, 17.3 (2024): 673.
 7. Mundhe, Y., et al. "PREDICTIVE MAINTENANCE OF SENSOR-BASED WATER PUMP USING MACHINE LEARNING." (2024).
 
+## LICENSE
+ Copyright (C) 2024 Rudra Prasanna Mishra
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published
+    by the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
